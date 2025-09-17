@@ -1,4 +1,4 @@
-# Estate Pilot
+# Estate Pilot (10.05.2025)
 
 This repository contains the Software Architecture Document for the system Estate Pilot, a real estate platform that allows users, brokers, and administrators to interact with property listings.  
 
